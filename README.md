@@ -1,0 +1,2 @@
+解压hanzi_server static/audio 下的压缩包里的汉字音频文件
+writehanzi-front 是uniapp 程序使用hbuilder运行
